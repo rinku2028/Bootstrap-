@@ -2,10 +2,15 @@
 
 Bootstrap is a framework to help you design websites faster and easier. It includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels, etc. It also gives you support for JavaScript plugins.
 
-Why Bootstrap?
 
-o learn about the inner workings of Bootstrap, I contacted Stas Demchuk, Senior Software Engineer at: 8sph.com.
 
+Why Use Bootstrap?
+Advantages of Bootstrap:
+
+Easy to use: Anybody with just basic knowledge of HTML and CSS can start using Bootstrap
+Responsive features: Bootstrap's responsive CSS adjusts to phones, tablets, and desktops
+Mobile-first approach: In Bootstrap, mobile-first styles are part of the core framework
+Browser compatibility: Bootstrap 4 is compatible with all modern browsers (Chrome, Firefox, Internet Explorer 10+, Edge, Safari, and Opera)
 Here’s what you need to know:
 
 1.      First of all, Bootstrap is the most popular framework for creating layouts. Here are some additional reasons to use Bootstrap:
