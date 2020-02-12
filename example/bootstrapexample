@@ -1,21 +1,21 @@
 <div class="jumbotron text-center">
   <h1>My First Bootstrap Page</h1>
-  <p>Resize this responsive page to see the effect!</p>
+  <p>Resize responsive page to see the effect using Bootstrap</p>
 </div>
 
 <div class="container">
   <div class="row">
     <div class="col-sm-4">
-      <h3>Column 1</h3>
-      <p>Lorem ipsum dolor..</p>
+      <h3>This is bootstrap page</h3>
+      <p>See the look and feel using Bootstrap!</p>
     </div>
     <div class="col-sm-4">
-      <h3>Column 2</h3>
-      <p>Lorem ipsum dolor..</p>
+      <h3>Changes in Bootstrap</h3>
+      <p>Hello Bootstrap!</p>
     </div>
     <div class="col-sm-4">
-      <h3>Column 3</h3>
-      <p>Lorem ipsum dolor..</p>
+      <h3>You are welcome!</h3>
+      <p>Effects</p>
     </div>
   </div>
 </div>
